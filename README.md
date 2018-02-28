@@ -2,7 +2,7 @@
 
 # Deep Learning Course
 
-This repository is for students of the in-classroom [Deep Learning course](https://nycdatascience.com/courses/deep-learning/) offered by Jon Krohn at the NYC Data Science Academy. 
+This repository is for students of the in-classroom [Deep Learning course](https://nycdatascience.com/courses/deep-learning/) offered by [Jon Krohn](https://www.jonkrohn.com/) at the NYC Data Science Academy from March through April 2018. 
 
 ## Installation
 
