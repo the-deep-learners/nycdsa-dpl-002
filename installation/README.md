@@ -2,7 +2,7 @@
 
 ## Mac OS X
 
-Detailed step-by-step instructions for running the code notebooks for these LiveLessons on a Mac [here](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/installation/step_by_step_MacOSX_install.md).
+Detailed step-by-step instructions for running the code notebooks for this course on a Mac are [here](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/installation/step_by_step_MacOSX_install.md).
 
 
 ## Unix
@@ -40,5 +40,5 @@ Community members have kindly contributed several different sets of Windows inst
 
 ## GPU Considerations
 
-Most of the examples in these LiveLessons involve relatively small (in Deep Learning terms) data sets so you will be in great shape using your CPU alone for training the models. That said, some of the later notebooks in these LiveLessons will train much more quickly if you employ a GPU. Alternatively, you may enjoy leveraging the efficient, highly-parallelised computations that a GPU affords for your own projects. Whatever the reason, here are TensorFlow GPU instructions for [Mac/Unix](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/installation/step_by_step_MacOSX_install.md#bonus-training-models-with-an-nvidia-gpu) or [Windows](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/installation/windows_TF_GPU.md).  
+Most of the examples in this course involve relatively small (in Deep Learning terms) data sets so you will be in great shape using your CPU alone for training the models. That said, some of the later notebooks in these LiveLessons will train much more quickly if you employ a GPU. Alternatively, you may enjoy leveraging the efficient, highly-parallelised computations that a GPU affords for your own projects. Whatever the reason, here are TensorFlow GPU instructions for [Mac/Unix](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/installation/step_by_step_MacOSX_install.md#bonus-training-models-with-an-nvidia-gpu) or [Windows](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/installation/windows_TF_GPU.md).  
 
